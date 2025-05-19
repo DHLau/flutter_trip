@@ -1,0 +1,14 @@
+static const loginBgJpg = 'assets/images/login-bg.jpg';
+static const typeChannelgroupPng = 'assets/images/type_channelgroup.png';
+static const typeChannelgsPng = 'assets/images/type_channelgs.png';
+static const typeChannelplanePng = 'assets/images/type_channelplane.png';
+static const typeChanneltrainPng = 'assets/images/type_channeltrain.png';
+static const typeCruisePng = 'assets/images/type_cruise.png';
+static const typeDistrictPng = 'assets/images/type_district.png';
+static const typeFoodPng = 'assets/images/type_food.png';
+static const typeHotelPng = 'assets/images/type_hotel.png';
+static const typeHuodongPng = 'assets/images/type_huodong.png';
+static const typeShopPng = 'assets/images/type_shop.png';
+static const typeSightPng = 'assets/images/type_sight.png';
+static const typeTicketPng = 'assets/images/type_ticket.png';
+static const typeTravelgroupPng = 'assets/images/type_travelgroup.png';
